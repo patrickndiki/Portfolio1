@@ -14,8 +14,7 @@ https://patrickndiki.github.io/Portfolio1/
 ## Technologies Used
 {This project has used html and CSS only.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{You can contribute if you run into any issues with the code report the issue or most preferebly fix}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-This is under the [MIT](LICENSE) license
-Copyright (c) {year} **{List of contributors or company name}**
+This is under the [MIT](PRTF1) license
+Copyright (c) {2021} 
