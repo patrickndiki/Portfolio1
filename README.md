@@ -5,7 +5,7 @@
 This is actually my first webpage which includes info about me the developer patrick,which is made up of HTML and CSS
 ## Setup/Installation Requirements
 * Clone the repo:{git clone 
-https://github.com/patrickndiki/Portfolio1.git}
+https://https://patrickndiki.github.io/Portfolio1/}
 * no server or dependancies needed to run the code
 ## Live link
 https://patrickndiki.github.io/Portfolio1/
